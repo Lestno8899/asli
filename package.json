@@ -1,0 +1,21 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Trading bot panackeswap",
+  "main": "script.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Wahyudi Hermawan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "ethers": "^5.0.32",
+    "validator": "^13.6.0",
+    "web-socket-router": "^1.6.8"
+  }
+}
